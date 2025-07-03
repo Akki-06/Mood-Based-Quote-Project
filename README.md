@@ -5,9 +5,9 @@ A simple, aesthetic web app that shows you a meaningful quote based on your curr
 
 ![image](https://github.com/user-attachments/assets/1cadd020-1467-47f4-9721-cea925cac59b)
 
+🔗 Try it now: https://akki-06.github.io/Mood-Based-Quote-Project/
 
 ---
-
 ## 🚀 Features
 
 - 🎭 9 mood options with matching emojis
